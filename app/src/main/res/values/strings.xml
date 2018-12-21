@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LSLibrary</string>
+    <string name="connecting">正在连接</string>
+</resources>

@@ -1,0 +1,11 @@
+[
+  {
+    "name":"RecyclerView",
+    "class":"com.berlin.lslibrary.recyclerview.RecyclerViewActivity"
+  },
+
+  {
+    "name":"Vpn",
+    "class":"com.berlin.lslibrary.vpn.VpnActivity"
+  }
+]
