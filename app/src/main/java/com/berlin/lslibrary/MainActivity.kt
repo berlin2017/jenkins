@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity(), LSRefreshLayout.OnRefreshListener {
         adapter = MenuAdapter(this, list)
         recyclerView.adapter = adapter
         getData()
-
+    //
         refreshLayout.isEnabled = false
         refreshLayout.refreshListener = this
     }
